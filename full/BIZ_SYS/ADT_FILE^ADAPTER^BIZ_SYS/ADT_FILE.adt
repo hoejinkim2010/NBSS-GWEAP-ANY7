@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:adapterInfo xmlns:ns0="http://www.tmaxsoft.com/schemas/anylink/" xmlns:ns2="http://www.tmaxsoft.com/schemas/anylink/reliableQueue/" xmlns:ns1="http://www.tmaxsoft.com/schemas/anylink/common/" xmlns:ns3="http://www.tmaxsoft.com/schemas/anylink/serverPlugin/">
+   <ns0:sysId>ADT_FILE</ns0:sysId>
+   <ns0:id>ADT_FILE</ns0:id>
+   <ns0:name>파일</ns0:name>
+   <ns0:package>BIZ_SYS</ns0:package>
+   <ns0:version>1</ns0:version>
+   <ns0:registererdDate>2024-04-13 17:44:32.282</ns0:registererdDate>
+   <ns0:registeringUser>admin</ns0:registeringUser>
+   <ns0:deployEndDate>2024-04-13 17:44:32.314</ns0:deployEndDate>
+   <ns0:bizsystemId>BIZ_SYS</ns0:bizsystemId>
+   <ns0:resourceType>Adapter</ns0:resourceType>
+   <ns0:protocol>FILE</ns0:protocol>
+</ns0:adapterInfo>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:endpointInfo xmlns:ns0="http://www.tmaxsoft.com/schemas/anylink/" xmlns:ns2="http://www.tmaxsoft.com/schemas/anylink/reliableQueue/" xmlns:ns1="http://www.tmaxsoft.com/schemas/anylink/common/" xmlns:ns3="http://www.tmaxsoft.com/schemas/anylink/serverPlugin/">
+   <ns0:sysId>ADT_FILE_HPLUS.EP_HPLUS</ns0:sysId>
+   <ns0:id>EP_HPLUS</ns0:id>
+   <ns0:name>EP_HPLUS</ns0:name>
+   <ns0:package>ADT_FILE_HPLUS</ns0:package>
+   <ns0:version>3</ns0:version>
+   <ns0:registererdDate>2024-04-04 03:25:18.404</ns0:registererdDate>
+   <ns0:registeringUser>admin</ns0:registeringUser>
+   <ns0:modificationDate>2024-04-25 14:34:37.163</ns0:modificationDate>
+   <ns0:modificationUser>admin</ns0:modificationUser>
+   <ns0:deployEndDate>2024-04-25 14:34:37.199</ns0:deployEndDate>
+   <ns0:bizsystemId>BIZ_SYS</ns0:bizsystemId>
+   <ns0:resourceType>Endpoint</ns0:resourceType>
+   <ns0:adapterId>ADT_FILE_HPLUS</ns0:adapterId>
+   <ns0:parentId>ADT_FILE_HPLUS</ns0:parentId>
+   <ns0:direction>Outbound</ns0:direction>
+   <ns0:useReceiveMessageHandler>false</ns0:useReceiveMessageHandler>
+   <ns0:useSsl>false</ns0:useSsl>
+   <ns0:runningState>Running</ns0:runningState>
+   <ns0:bootState>Running</ns0:bootState>
+   <ns0:fileEndpointInfo>
+      <ns0:useAgent>false</ns0:useAgent>
+   </ns0:fileEndpointInfo>
+</ns0:endpointInfo>

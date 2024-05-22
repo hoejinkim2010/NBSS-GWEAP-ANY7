@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns0:adapterInfo xmlns:ns0="http://www.tmaxsoft.com/schemas/anylink/" xmlns:ns2="http://www.tmaxsoft.com/schemas/anylink/reliableQueue/" xmlns:ns1="http://www.tmaxsoft.com/schemas/anylink/common/" xmlns:ns3="http://www.tmaxsoft.com/schemas/anylink/serverPlugin/">
+   <ns0:sysId>ADT_FILE_HPLUS</ns0:sysId>
+   <ns0:id>ADT_FILE_HPLUS</ns0:id>
+   <ns0:name>ADT_FILE_홈플러스</ns0:name>
+   <ns0:package>BIZ_SYS</ns0:package>
+   <ns0:version>1</ns0:version>
+   <ns0:registererdDate>2024-04-04 03:25:03.089</ns0:registererdDate>
+   <ns0:registeringUser>admin</ns0:registeringUser>
+   <ns0:deployEndDate>2024-04-04 03:25:03.152</ns0:deployEndDate>
+   <ns0:bizsystemId>BIZ_SYS</ns0:bizsystemId>
+   <ns0:resourceType>Adapter</ns0:resourceType>
+   <ns0:protocol>FILE</ns0:protocol>
+</ns0:adapterInfo>
