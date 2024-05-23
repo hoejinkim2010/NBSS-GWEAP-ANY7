@@ -1,0 +1,4 @@
+#Thu May 23 17:26:06 KST 2024
+${sys\:PROP_01}=PROP_01_VALUE
+${sys\:PROP_02}=PROP_02_VALUE
+
